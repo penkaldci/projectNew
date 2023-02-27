@@ -1,0 +1,25 @@
+{
+  "name": "html_css_project",
+  "version": "1.0.0",
+  "description": "UIB project with html and css",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/penkaldci/projectNew.git"
+  },
+  "keywords": [
+    "html&&css"
+  ],
+  "author": "Mati Penki",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/penkaldci/projectNew/issues"
+  },
+  "homepage": "https://github.com/penkaldci/projectNew#readme",
+  "dependencies": {
+    "bootstrap": "^5.2.3"
+  }
+}
